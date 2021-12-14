@@ -1,0 +1,18 @@
+{
+    "name": "steven/calculator",
+    "description": "Small app about simple calculator",
+    "autoload": {
+        "psr-4": {
+            "Steven\\Calculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Steven Rendon",
+            "email": "deynerware@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
